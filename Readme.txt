@@ -1,0 +1,1 @@
+The purpose of this text file is to record the fact that this project is created as a humble attempt to create a download manager which is inspired from internet download manager but will work on all the platform and is free to use for all of the users.
